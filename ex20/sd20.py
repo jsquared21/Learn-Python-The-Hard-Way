@@ -47,13 +47,13 @@ current_line = 1
 print_a_line(current_line, current_file)
 
 # Add 1 to the variable current_line
-current_line = current_line + 1
+current_line += 1
 # Call the print_a_line function with the 
 # variables current_line and current_file
 print_a_line(current_line, current_file)
 
 # Add 1 to the variable current_line
-current_line = current_line + 1
+current_line += 1
 # Call the print_a_line function with the 
 # variables current_line and current_file
 print_a_line(current_line, current_file)
